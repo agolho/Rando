@@ -2,7 +2,9 @@
 .jumbotron{
   margin: 0 auto;
   height: 100vh;
-
+}
+.progress {
+  margin: 0;
 }
 @media only screen and (min-width: 600px) {
     .jumbotron {
