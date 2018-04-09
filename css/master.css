@@ -1,0 +1,11 @@
+
+.jumbotron{
+  margin: 0 auto;
+  height: 100vh;
+
+}
+@media only screen and (min-width: 600px) {
+    .jumbotron {
+        width: 50vh;
+    }
+}
